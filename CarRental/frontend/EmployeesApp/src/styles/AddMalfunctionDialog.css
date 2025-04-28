@@ -1,0 +1,36 @@
+.malfunction-dialog{
+    width: 30vw;
+}
+
+.malfunction-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.malfunction-container__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.malfunction-container__content__date{
+    display: flex;
+    flex-direction: column;
+}
+
+.malfunction-container__content__reason{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.malfunction-container__buttons{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

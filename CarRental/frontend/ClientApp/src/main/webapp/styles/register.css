@@ -1,0 +1,85 @@
+@import "variables.css";
+
+button {
+    cursor: pointer;
+}
+
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Adjust transparency with alpha */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.registration-form{
+    background-color: var(--color-white);
+    color: var(--color-black);
+    width: 60%;
+}
+
+.password-container__input {
+    display: flex;
+    align-items: center;
+}
+
+.password-container__input i {
+    cursor: pointer;
+    color: #333;
+}
+
+.required-field-star{
+    color: var(--color-red);
+}
+
+@media screen and (max-width: 480px) {
+    .registration-form {
+        height: 80%;
+        overflow-y: auto;
+    }
+
+    .passwords-container, .names-container{
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .registration-form {
+        height: 80%;
+        overflow-y: auto;
+    }
+
+    .passwords-container, .names-container{
+        flex-wrap: wrap;
+    }
+
+}
+
+@media screen and (max-height: 760px){
+    .registration-form {
+        height: 60%;
+        overflow-y: auto;
+    }
+}
+
+@media screen and (max-height: 1200px){
+    .registration-form {
+        height: 80%;
+        overflow-y: auto;
+    }
+}

@@ -1,0 +1,111 @@
+@import "variables.css";
+
+span {
+    color: var(--color-grey) !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.special-attribute{
+    color: var(--color-black);
+}
+
+.rent-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.rent-container__vehicle-info{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    max-height: 200px;
+}
+
+.rent-container__vehicle-info__image img {
+    width: 100%;
+    height: 100%;
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.rent-container__payment-container{
+    width: 70%;
+}
+
+.rent-container__payment-container__map{
+    margin-right: 10px;
+}
+
+.rent-container__payment-container__citizenship__info {
+    padding-top: 10px;
+}
+
+.rent-container__payment-container__payment{
+    margin-top: 20px;
+}
+
+.custom-card-payment {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--color-grey);
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    gap: 20px;
+}
+
+.custom-title {
+    background: white;
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+.custom-card-payment__content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#paymentDropdown {
+    min-width: 200px; /* Adjust as needed */
+}
+
+.cvv-help{
+    color: var(--color-grey);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 900px) {
+    .rent-container{
+        flex-direction: column;
+    }
+
+    .rent-container__vehicle-info{
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .rent-container__payment-container__payment{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .rent-container__vehicle-info, .rent-container__payment-container {
+        width: 100%;
+    }
+}

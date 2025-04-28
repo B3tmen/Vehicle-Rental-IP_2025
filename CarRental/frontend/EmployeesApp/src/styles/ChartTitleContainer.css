@@ -1,0 +1,13 @@
+.chart-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.chart-container__title{
+    display: flex;
+    align-content: flex-start;
+}

@@ -1,0 +1,24 @@
+-- SELECT fk_vehicle_id, model, rental_price,
+-- 	   car_id, purchase_date, ec.description AS car_description,
+-- 	   manufacturer_id, name, state, address, phone_number, fax, email,
+--        rental_status_id, status
+-- FROM electric_car ec
+-- JOIN rental_vehicle rv ON ec.fk_vehicle_id = rv.vehicle_id
+-- JOIN manufacturer m ON rv.fk_manufacturer_id = m.manufacturer_id
+-- JOIN rental_status rs ON rv.fk_rental_status_id = rs.rental_status_id;
+
+-- SELECT fk_vehicle_id, model, rental_price,
+-- 	   scooter_id, max_speed,
+-- 	   manufacturer_id, name, state, address, phone_number, fax, email,
+--        rental_status_id, status
+-- FROM electric_scooter es
+-- JOIN rental_vehicle rv ON es.fk_vehicle_id = rv.vehicle_id
+-- JOIN manufacturer m ON rv.fk_manufacturer_id = m.manufacturer_id
+-- JOIN rental_status rs ON rv.fk_rental_status_id = rs.rental_status_id;
+
+-- UPDATE user u
+-- SET password_hash='password2'
+-- WHERE u.user_id=2;
+-- SELECT * FROM user u
+-- JOIN client c ON u.user_id=c.fk_user_id
+-- WHERE u.user_id=2; 

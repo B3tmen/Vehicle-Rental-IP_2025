@@ -1,0 +1,123 @@
+@import "variables.css";
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-light-gray);
+}
+
+.login__container {
+    width: 500px;
+    padding: 2rem;
+    background: var(--color-white);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.login__header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.login__title {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.login__form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem; /* Space between input fields */
+}
+
+.input {
+    width: 50%;
+    height: 44px;
+    background-color: #05060f0a;
+    border-radius: .5rem;
+    padding: 0 1rem;
+    border: 2px solid transparent;
+    font-size: 1rem;
+    transition: border-color .3s cubic-bezier(.25,.01,.25,1) 0s, color .3s cubic-bezier(.25,.01,.25,1) 0s,background .2s cubic-bezier(.25,.01,.25,1) 0s;
+}
+
+.label {
+    display: block;
+    margin-bottom: .3rem;
+    font-size: .9rem;
+    font-weight: bold;
+    color: #05060f99;
+    transition: color .3s cubic-bezier(.25,.01,.25,1) 0s;
+}
+
+.input:hover, .input:focus, .input-group:hover .input {
+    outline: none;
+    border-color: #05060f;
+}
+
+.input {
+    border-radius: 10px !important;
+}
+
+.input-group:hover .label, .input:focus {
+    color: #05060fc2;
+}
+
+.input-group__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.login-button {
+    align-items: center;
+    background-color: var(--color-secondary);
+    border: 0;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: var(--color-white);
+    cursor: pointer;
+    display: inline-flex;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 480px;
+    min-height: 40px;
+    min-width: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+}
+
+.login-button:hover, .login-button:focus {
+    background-color: #16437E;
+    color: var(--color-white);
+}
+
+.login-button:active {
+    background: #09223b;
+    color: rgb(255, 255, 255, .7);
+}
+
+.login-button:disabled {
+    cursor: not-allowed;
+    background: rgba(0, 0, 0, .08);
+    color: rgba(0, 0, 0, .3);
+}
+
+@media screen and (max-width: 480px){
+    .login__container {
+        width: 80%;
+    }
+}

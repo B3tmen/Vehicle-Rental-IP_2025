@@ -1,0 +1,24 @@
+
+.dashboard-card{
+    width: 250px;
+    height: 10rem;
+    display: flex;
+    transition: 0.3s all ease;
+    align-items: center;
+    justify-content: center;
+}
+
+.dashboard-card:hover{
+    width: 250px;
+    height: 12rem;
+    cursor: pointer;
+}
+
+.dashboard-card__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+

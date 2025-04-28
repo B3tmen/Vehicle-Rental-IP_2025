@@ -1,0 +1,54 @@
+.input-dialog{
+    min-width: 480px;
+    min-height: 550px;
+}
+
+.dialog-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.dialog-container__inputs input{
+    width: 100%;
+}
+
+.dialog-container__inputs__container{
+    top: 20px; 
+    gap: 1.5rem; 
+    display: flex; 
+    flex-direction: column; 
+    position: relative; 
+    width: 100%;
+}
+
+.dialog-container__buttons{
+    display: flex; 
+    justify-content: center;
+    gap: 1rem;
+}
+
+.dialog-container__buttons__cancel-button{
+    background-color: var(--color-red);
+    border-color: var(--color-red);
+}
+
+.dialog-container__buttons__finish-button{
+    background-color: var(--color-green);
+    border-color: var(--color-green);
+}
+
+@media screen and (max-width: 768px){
+    .input-dialog{
+        min-width: 350px;
+        min-height: 550px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .input-dialog{
+        min-width: 300px;
+        min-height: 550px;
+    }
+}

@@ -1,0 +1,24 @@
+.vehicles-container__table-header{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.vehicles-container__table-header_combo-box{
+    flex-direction: flex-start;
+}
+
+@media screen and (max-width: 768px){
+    .vehicles-container__table-header{
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+    }
+    .vehicles-container__table-header input {
+        width: 100%;
+    }
+
+    .vehicles-container__table-header_combo-box{
+        justify-content: start;
+    }
+}

@@ -1,0 +1,18 @@
+.chart-layout-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}
+  
+.chart-layout-container__filters {
+    display: flex;
+    justify-content: flex-end;
+    left: 40%;
+}
+
+.chart-layout-container__chart {
+    width: 100%;
+}

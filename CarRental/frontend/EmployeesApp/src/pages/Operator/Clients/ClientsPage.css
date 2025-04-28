@@ -1,0 +1,14 @@
+.switch-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.switch-wrapper .p-inputswitch .p-inputswitch-checked {
+    background-color: var(--color-green) !important;
+    border-color: var(--color-green) !important;
+}
+
+.switch-wrapper .p-inputswitch:not(.p-inputswitch-checked) {
+    background-color: var(--color-red) !important;
+    border-color: var(--color-red) !important;
+}

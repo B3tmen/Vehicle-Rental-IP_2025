@@ -1,0 +1,79 @@
+@import "variables.css";
+
+.navbar {
+    display: flex;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    justify-content: space-between;
+    background-color: var(--color-primary);
+}
+
+.navbar__list ul{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+a {
+    display: block !important;
+    position: relative !important;
+    padding: 0.2em 0 !important;
+    color: var(--color-white) !important;
+    text-decoration: none !important;
+}
+
+a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0.1em;
+    background-color: var(--color-white);
+    opacity: 0;
+    transition: opacity 300ms, transform 300ms;
+}
+
+a::after, a:focus::after {
+    opacity: 1;
+    transform: translate3d(0, 0.2em, 0);
+}
+
+/* Scale from center */
+a::after {
+    opacity: 1;
+    transform: scale(0);
+    transform-origin: center;
+}
+
+.navbar__list ul li a:hover::after, .navbar__list ul li a:focus::after{
+    transform: scale(1);
+}
+
+.navbar__logout {
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.navbar__logout button {
+    border: 0;
+    box-shadow: none;
+    border-radius: 2px;
+    width: 8rem;
+    height: 30px;
+    color: white;
+    background-color: var(--color-red);
+    font-weight: bold;
+}
+
+.navbar__logout button:hover {
+    color: var(--color-red);
+    background-color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+.custom-table th, .custom-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.custom-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.custom-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.custom-table__actions-container {
+    display: flex;
+    gap: 10px;
+}
+
+.action-btn {
+    padding: 6px 12px;
+    margin: 2px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+}
+
+.action-btn:hover{
+    color: var(--color-primary);
+}
+
+.edit-btn {
+    background-color: var(--color-secondary);
+    color: white;
+}
+
+.delete-btn {
+    background-color: var(--color-red);
+    color: white;
+}

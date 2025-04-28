@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ClientApp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db346aa5-9f9c-46d5-a383-9ba71a5a02dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Objectives.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Objectives.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/config/ModelMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/config/ModelMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/AnnouncementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/AnnouncementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricBicycleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricBicycleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricCarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricCarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricScooterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ElectricScooterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/MalfunctionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/MalfunctionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ManufacturerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/ManufacturerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/PromotionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/PromotionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalStatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalStatusController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalVehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalVehicleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RentalsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RssFeedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/RssFeedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/StatisticsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/StatisticsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/VehicleMalfunctionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/controller/VehicleMalfunctionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/deserializers/IsoToLocalDateTimeDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/deserializers/IsoToLocalDateTimeDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/CustomVehicleIdConflictException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/CustomVehicleIdConflictException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/EmailConflictException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/EmailConflictException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/InvalidCsvFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/InvalidCsvFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/InvalidDateTimeFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/InvalidDateTimeFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/PhoneNumberConflictException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/PhoneNumberConflictException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/UnauthorizedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/UnauthorizedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/UsernameConflictException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/exception/UsernameConflictException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/interfaces/EntityDTOConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/interfaces/EntityDTOConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/AnnouncementDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/AnnouncementDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/AuthenticationResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/AuthenticationResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricBicycleDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricBicycleDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricCarDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricCarDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricScooterDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ElectricScooterDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/EmployeeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/EmployeeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ImageDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ImageDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/InvoiceDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/InvoiceDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/LocationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/LocationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/LoginRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/LoginRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MalfunctionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MalfunctionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ManufacturerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/ManufacturerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MapVehicleDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MapVehicleDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MonthlyIncomeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/MonthlyIncomeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/PromotionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/PromotionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalStatusDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalStatusDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalVehicleDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/RentalVehicleDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/VehicleMalfunctionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/VehicleMalfunctionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/VehicleTypeIncomeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/dto/VehicleTypeIncomeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricBicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricScooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/ElectricScooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Malfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Malfunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Passport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Passport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Promotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Promotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/RentalStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/RentalStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/RentalVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/RentalVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/VehicleMalfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/VehicleMalfunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/VehicleMalfunctionId.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/entities/VehicleMalfunctionId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/CardType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/CitizenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/CitizenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/EmployeeRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/EmployeeRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/UserType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/UserType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/model/enums/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/AnnouncementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/AnnouncementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricBicycleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricBicycleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricCarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricCarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricScooterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ElectricScooterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/InvoiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/InvoiceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/MalfunctionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/MalfunctionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ManufacturerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/ManufacturerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/PromotionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/PromotionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalStatusRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalStatusRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalVehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/RentalVehicleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/VehicleMalfunctionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/repository/VehicleMalfunctionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/UserPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/UserPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/jwt/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/jwt/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/jwt/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/security/jwt/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/AnnouncementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/AnnouncementServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/AuthenticationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/AuthenticationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ClientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricBicycleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricBicycleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricCarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricCarServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricScooterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ElectricScooterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ImageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ImageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/InvoiceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/MalfunctionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/MalfunctionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ManufacturerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/ManufacturerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/PromotionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/PromotionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalStatusServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalStatusServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalVehicleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RentalVehicleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RssServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/RssServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/StatisticsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/StatisticsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/VehicleCsvServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/impl/VehicleCsvServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/AnnouncementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/AnnouncementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/CrudBaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/CrudBaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/DtoImageInserterUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/DtoImageInserterUpdater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricBicycleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricBicycleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricCarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricCarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricScooterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ElectricScooterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/InvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/InvoiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/MalfunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/MalfunctionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ManufacturerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/ManufacturerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/PromotionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/PromotionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalStatusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalStatusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalVehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RentalVehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RssService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/RssService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/StatisticsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/StatisticsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/VehicleCsvService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/service/interfaces/VehicleCsvService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/CustomLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/CustomLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/TextHasher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/TextHasher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/UUIDHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/UUIDHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/VehicleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/java/org/unibl/etf/carrentalbackend/util/VehicleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/resources/custom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/CarRentalBackend/src/main/resources/custom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csvTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../csvTest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/VehicleRental_DDL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../database/VehicleRental_DDL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/inserts/db-inserts-test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../database/inserts/db-inserts-test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/00b9f0ed-0f9b-4e44-b88c-de6841df0825.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/00b9f0ed-0f9b-4e44-b88c-de6841df0825.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/PaymentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/PaymentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/ProfileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/ProfileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/controller/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/database/dao/impl/AvatarImageDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/database/dao/impl/AvatarImageDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/service/ImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/unibl/etf/clientapp/service/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/rent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/rent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/1d231dba-b370-41c2-b84f-af66c3575a35.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/51e65e34-4578-40eb-9bc3-ad104075304b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/53ba0c01-63ec-4adf-9635-9c6e11224aa4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/5dbfd5d8-2cbd-4849-88cc-0801a8645906.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/78122651-4622-4d28-acc5-8be8c80b9a90.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/9b0f113d-6838-46d3-b3e9-43667cdc0c2a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/afe1dbf7-ad73-4297-a623-5a0a7ca0c7dc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/invoices/e6e335fc-97a0-42aa-9127-42b83e281208.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/authentication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/drive.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/drive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/leafletMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/leafletMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/rent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/rent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/404.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/404.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/drive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/drive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/rent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/rent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/apiService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/apiService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/axiosInstance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/axiosInstance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/services/authService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/services/authService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/services/dashboardService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/services/dashboardService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/services/imageService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/services/imageService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/api/services/statisticsService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/api/services/statisticsService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/CustomSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/CustomSidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/RowTitleContentContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/RowTitleContentContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/Searchbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/Searchbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/AdminMainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/AdminMainLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/ChartContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/ChartContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/DashboardCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/DashboardCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/PagesContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/PagesContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/UserDataEntryForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/UserDataEntryForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/UserDataEntryModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/UserDataEntryModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/VehicleDataEntryForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/VehicleDataEntryForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/VehicleDataEntryModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/admin/VehicleDataEntryModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/auth/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/auth/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/auth/ProtectedRoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/auth/ProtectedRoute.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/ChartLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/ChartLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/ChartTitleContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/ChartTitleContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/EmployeeRolesChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/EmployeeRolesChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/MalfunctionPerVehicleChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/MalfunctionPerVehicleChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/MonthlyIncomeChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/MonthlyIncomeChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/UserTypesChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/UserTypesChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/VehicleIncomeChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/VehicleIncomeChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/VehicleTypesChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/charts/VehicleTypesChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/ConfirmationDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/ConfirmationDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/InfoDisplayDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/InfoDisplayDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/ManufacturerInputDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/dialogs/ManufacturerInputDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/manager/ManagerMainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/manager/ManagerMainLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/manager/RentalPriceDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/manager/RentalPriceDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/AddMalfunctionDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/AddMalfunctionDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/CustomMap.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/CustomMap.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/OperatorMainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/operator/OperatorMainLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/AddableTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/AddableTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/CustomDataTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/CustomDataTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/EditableTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/components/tables/EditableTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/context/AuthProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/context/AuthProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/context/ToastHelper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/context/ToastHelper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useAuth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useAuth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useClients.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useClients.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useFetchData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useFetchData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useToast.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/hooks/useToast.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Dashboard/DashboardPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Dashboard/DashboardPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Dashboard/DashboardPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Dashboard/DashboardPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Manufacturers/ManufacturersPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Manufacturers/ManufacturersPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Manufacturers/ManufacturersPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Manufacturers/ManufacturersPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Users/UsersManagementPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Users/UsersManagementPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleDetails/VehicleDetailsPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleDetails/VehicleDetailsPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleDetails/VehicleDetailsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleDetails/VehicleDetailsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleManagement/VehicleManagementPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleManagement/VehicleManagementPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleManagement/VehicleManagementPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Admin/Vehicles/VehicleManagement/VehicleManagementPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Login/LoginPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Login/LoginPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Manager/RentalPrices/RentalPricesPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Manager/RentalPrices/RentalPricesPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Manager/Statistics/StatisticsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Manager/Statistics/StatisticsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Clients/ClientsPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Clients/ClientsPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Clients/ClientsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Clients/ClientsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Malfunctions/MalfunctionsPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Malfunctions/MalfunctionsPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Malfunctions/MalfunctionsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Malfunctions/MalfunctionsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Rentals/RentalsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/Rentals/RentalsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/VehicleMap/VehicleMapPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/pages/Operator/VehicleMap/VehicleMapPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/AddMalfunctionDialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/AddMalfunctionDialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/AdminMainLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/AdminMainLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/ChartContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/ChartContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/ChartTitleContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/ChartTitleContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/CustomSidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/CustomSidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/DashboardCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/DashboardCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/ManufacturerInputDialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/ManufacturerInputDialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/PagesContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/PagesContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/RowTitleContentContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/RowTitleContentContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/Searchbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/Searchbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/UserDataEntryForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/UserDataEntryForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/VehicleDataEntryForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/VehicleDataEntryForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/styles/charts/ChartLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/styles/charts/ChartLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/types/classes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/types/classes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/types/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/types/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/ApiLinks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/ApiLinks.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/emptyObjects.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/emptyObjects.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/objectConfigs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/objectConfigs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/storageKeys.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/constants/storageKeys.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/navigationHelper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/navigationHelper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/typeChecker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/typeChecker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeesApp/src/utils/validationSchemas.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeesApp/src/utils/validationSchemas.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/404.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/404.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/custom-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/custom-table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PromotionsApp/src/main/webapp/styles/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tY3VhUD7dcyYoMoXButgWvxNWW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.ClientApp Start.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SKOLA MOODLE/ETF/GRADIVO PO GODINAMA/Cetvrta godina/VII semestar/Internet programiranje/Projektni/2024/CarRental/frontend/ClientApp/src/main/webapp/resources/invoices&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\resources\invoices" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\java\org\unibl\etf\clientapp\util" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\resources" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\resources\images" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\java\org\unibl\etf\clientapp\model\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\WEB-INF" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\view" />
+      <recent name="D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Internet programiranje\Projektni\2024\CarRental\frontend\ClientApp\src\main\webapp\resources\bootstrap" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="org.unibl.etf.clientapp.util.Constants.Components" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.unibl.etf.clientapp.model.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientApp Start" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ClientApp/login" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ClientApp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ClientApp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="e454af92-8a85-43f6-a437-154843030427" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60450" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ClientApp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db346aa5-9f9c-46d5-a383-9ba71a5a02dd" name="Changes" comment="" />
+      <created>1740515207224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740515207224</updated>
+      <workItem from="1740515208306" duration="245000" />
+      <workItem from="1740515493811" duration="1567000" />
+      <workItem from="1740582052407" duration="2267000" />
+      <workItem from="1740590683179" duration="6590000" />
+      <workItem from="1740667203105" duration="6291000" />
+      <workItem from="1740731810579" duration="7869000" />
+      <workItem from="1740754585552" duration="6725000" />
+      <workItem from="1740772980070" duration="6558000" />
+      <workItem from="1740820222686" duration="5628000" />
+      <workItem from="1740843424769" duration="2950000" />
+      <workItem from="1740859098818" duration="7021000" />
+      <workItem from="1740904287086" duration="7441000" />
+      <workItem from="1740940702664" duration="7108000" />
+      <workItem from="1741015129367" duration="12693000" />
+      <workItem from="1741103033411" duration="8491000" />
+      <workItem from="1741118755343" duration="6671000" />
+      <workItem from="1741177354544" duration="3958000" />
+      <workItem from="1741187485079" duration="13131000" />
+      <workItem from="1741204137061" duration="7374000" />
+      <workItem from="1741249091377" duration="3841000" />
+      <workItem from="1741271362848" duration="7218000" />
+      <workItem from="1741336596450" duration="4340000" />
+      <workItem from="1741349882101" duration="7052000" />
+      <workItem from="1741374789172" duration="596000" />
+      <workItem from="1741460491902" duration="12896000" />
+      <workItem from="1741506424362" duration="10155000" />
+      <workItem from="1741533947976" duration="4427000" />
+      <workItem from="1741618332631" duration="3323000" />
+      <workItem from="1741629816251" duration="5481000" />
+      <workItem from="1741635382352" duration="125000" />
+      <workItem from="1741714860699" duration="2885000" />
+      <workItem from="1741870417801" duration="5459000" />
+      <workItem from="1741885442272" duration="6531000" />
+      <workItem from="1741941616096" duration="5918000" />
+      <workItem from="1741966476058" duration="7181000" />
+      <workItem from="1742034340862" duration="3377000" />
+      <workItem from="1742056279603" duration="3334000" />
+      <workItem from="1742221167620" duration="7221000" />
+      <workItem from="1742286565710" duration="7849000" />
+      <workItem from="1742385015782" duration="6912000" />
+      <workItem from="1742484640523" duration="3185000" />
+      <workItem from="1742488750466" duration="1569000" />
+      <workItem from="1742544551738" duration="4015000" />
+      <workItem from="1742580442590" duration="6250000" />
+      <workItem from="1742716788362" duration="9732000" />
+      <workItem from="1742736158112" duration="3692000" />
+      <workItem from="1742821498146" duration="4082000" />
+      <workItem from="1742888184680" duration="5367000" />
+      <workItem from="1742907228768" duration="4663000" />
+      <workItem from="1742916606298" duration="24000" />
+      <workItem from="1742922456239" duration="2779000" />
+      <workItem from="1742983431513" duration="3831000" />
+      <workItem from="1743005551067" duration="5034000" />
+      <workItem from="1743022393570" duration="3269000" />
+      <workItem from="1743064459307" duration="8923000" />
+      <workItem from="1743102486661" duration="4544000" />
+      <workItem from="1743155913879" duration="3402000" />
+      <workItem from="1743172877246" duration="6213000" />
+      <workItem from="1743276587737" duration="1735000" />
+      <workItem from="1743340922247" duration="7575000" />
+      <workItem from="1743409496455" duration="1922000" />
+      <workItem from="1743436588856" duration="9052000" />
+      <workItem from="1743507269706" duration="3284000" />
+      <workItem from="1743527135540" duration="1858000" />
+      <workItem from="1743941792261" duration="886000" />
+      <workItem from="1744206177704" duration="165000" />
+      <workItem from="1744636815190" duration="2027000" />
+      <workItem from="1744828478162" duration="2391000" />
+      <workItem from="1744830887887" duration="3328000" />
+      <workItem from="1744875330159" duration="260000" />
+      <workItem from="1744876298185" duration="279000" />
+      <workItem from="1744881160851" duration="4695000" />
+      <workItem from="1744901789335" duration="1802000" />
+      <workItem from="1744962863165" duration="6870000" />
+      <workItem from="1745348924619" duration="7031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

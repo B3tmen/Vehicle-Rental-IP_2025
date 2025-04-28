@@ -1,0 +1,96 @@
+.add-dialog{
+    width: 80%;
+    min-width: 30vw;
+}
+
+.vehicle-form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.vehicle-form__image-upload{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+    
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.vehicle-form__image-upload--image{
+    width: 60%;
+    min-width: 300px;
+}
+
+.vehicle-form__basic-details{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.vehicle-form__additional-details__container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.vehicle-form__additional-details__container__field{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.vehicle-form__basic-details--input, .vehicle-form__basic-details--select, .vehicle-form__additional-details__container--input {
+    width: 100%;
+    min-width: 30vw;
+    height: 60px;
+}
+
+.vehicle-form__basic-details__type{
+    display: flex;
+    flex-direction: column;
+}
+
+.vehicle-form__basic-details__type__radio-container{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.vehicle-form__basic-details__type__radio-container--radio{
+    margin: 0.3rem;
+}
+
+.vehicle-form__additional-details{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    border: dashed;
+    padding: 20px;
+    border-color: var(--color-grey);
+}
+
+.vehicle-form__buttons{
+    margin-top: 2rem;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 768px){
+    .add-dialog{
+        width: 80%;
+        min-width: 30vw;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .add-dialog{
+        width: 80%;
+        min-width: 10vw;
+    }
+}

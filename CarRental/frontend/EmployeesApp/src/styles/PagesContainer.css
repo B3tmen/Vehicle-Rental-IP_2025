@@ -1,0 +1,61 @@
+.page-container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+    background-color: var(--color-light-gray);
+}
+
+.page-container__header{
+    display: flex;
+    flex-direction: column;
+}
+
+.page-container__header__title-buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 15px;
+}
+
+.page-container__header__title-buttons__buttons {
+    gap: 10px;
+    display: flex;
+}
+.page-container__header__title-buttons__buttons button{
+    width: 100%;
+}
+
+
+@media screen and (max-width: 768px){
+
+    .page-container__header__title-buttons {
+        flex-direction: column; /* Stack title and buttons vertically */
+        align-items: flex-start; /* Align items to the start */
+    }
+
+    .page-container__header__title-buttons__buttons {
+        justify-content: flex-start; /* Align buttons to the left */
+        width: 100%; /* Make buttons span the full width */
+    }
+
+    .page-container__header__title-buttons__title {
+        margin-bottom: 10px; /* Add spacing between title and buttons */
+    }
+}
+
+@media (max-width: 480px) {
+    .page-container__header__title-buttons__buttons {
+        flex-direction: row;
+        align-items: stretch; 
+    }
+
+    .page-container__main-content {
+        font-size: 14px; 
+    }
+}

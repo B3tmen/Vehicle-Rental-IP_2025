@@ -1,0 +1,63 @@
+.vehicle-details{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 7rem;
+    padding: 10px;
+}
+
+.basic-details__content__image{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.basic-details__content__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.basic-details__content__fields{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+    gap: 20px;
+}
+
+.basic-details__content__fields--field{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+}
+
+.input-container--input{
+    width: 80%;
+    min-width: 30vw;
+    height: 60px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+/* ---------------------------------- */
+
+@media screen and (max-width: 768px){
+    .vehicle-details__basic-details{
+        flex-wrap: wrap;
+        
+    }
+    
+}

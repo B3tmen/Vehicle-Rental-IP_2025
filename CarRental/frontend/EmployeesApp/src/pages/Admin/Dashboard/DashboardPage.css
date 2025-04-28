@@ -1,0 +1,24 @@
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px 0 20px;
+}
+
+.dasboard__content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dasboard__content__cards-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.dasboard__content__charts-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}

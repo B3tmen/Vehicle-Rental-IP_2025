@@ -1,0 +1,14 @@
+@import "variables.css";
+
+h1{
+    color: var(--color-red);
+}
+
+p, a {
+    font-size: 1.5rem;
+}
+
+.container-404 {
+    background-color: var(--color-light-gray);
+    width: 100%;
+}

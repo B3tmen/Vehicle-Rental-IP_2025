@@ -1,0 +1,22 @@
+@import "variables.css";
+#root {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+body {
+    max-width: 100%;
+    min-height: 100vh;
+}
+
+
+h1, h2, h3, h4, h5, h6, p, a, button {
+    font-family: var(--font-base), serif !important;
+}
+
+
+
+footer {
+    background-color: var(--color-primary);
+}

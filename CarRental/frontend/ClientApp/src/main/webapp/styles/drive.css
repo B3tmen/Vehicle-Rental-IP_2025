@@ -1,0 +1,38 @@
+@import "variables.css";
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    /*background-color: var(--color-light-gray);*/
+}
+
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Adjust transparency with alpha */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.drive-container {
+    /*background-color: var(--color-white);*/
+    background: rgba(255, 255, 255, 0.95); /* Adjust transparency with alpha */
+}
+
