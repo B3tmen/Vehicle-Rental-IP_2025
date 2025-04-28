@@ -30,9 +30,6 @@ This application is made using React + Typescript. Other libraries include Prime
 # 💻 Demo
 _Notice_: The quality of the following videos is not the best and does not provide an exact representation of the application.
 
-https://github.com/user-attachments/assets/7ae31e85-e242-4d56-b526-70ea8feae780
+https://github.com/user-attachments/assets/b0267c30-23e4-411f-bb87-344633775e48
 
-https://github.com/user-attachments/assets/aa9195c6-fdc6-4645-80ec-d7f7bfbd4d46
-
-
-
+https://github.com/user-attachments/assets/97d81971-7011-4a35-b22e-310996a6ea2c
